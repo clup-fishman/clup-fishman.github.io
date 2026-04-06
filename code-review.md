@@ -6,4 +6,14 @@ across software design and engineering, algorithms and data structures, and data
 The purpose of this review was not only to inspect the code, but also demonstrate my ability to analyze software critically, communicate technical ideas clearly, and establish a roadmap for meaningful improvement.
 
 ## Video
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/o9GIhXgXjqo"
+    frameborder="0"
+    allowfullscreen
+    style="position: absolute; top:0; left:0; width:100%; height:100%;">
+  </iframe>
+</div>
+
 [Watch the Code Review on YouTube](https://youtu.be/o9GIhXgXjqo)
