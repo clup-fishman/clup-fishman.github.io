@@ -8,5 +8,5 @@ ability to evaluate existing work, strengthen software through targeted improvem
 
 ## Featured Work (In Progress)
 - [Code Review](code-review.md)
-- [Artifact 1 - Software Engineering and Design](artifact1.md)
+- [Artifact 1 - Software Engineering and Design](artifact1/index.md)
 
