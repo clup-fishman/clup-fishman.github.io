@@ -5,7 +5,9 @@ ability to evaluate existing work, strengthen software through targeted improvem
 
 ---
 
-## Featured Work (In Progress)
+## Featured Work
 - [Code Review](code-review.md)
 - [Artifact 1 - Software Engineering and Design](artifact1/index.md)
+- Artifact 2 - Algorithms and Data Structures (Coming Soon)
+- Artifact 3 - Databases (Coming Soon)
 
