@@ -1,4 +1,3 @@
-# Caleb Luplow
 ## CS-499 Computer Science Capstone
 
 Welcome to my CS-499 capstone ePortfolio. This portfolio is designed to showcase my growth throughout the Computer Science program through code review, artifact enhancement, and reflective analysis. Each submission demonstrates my
