@@ -44,5 +44,5 @@ Overall, this strengthened my understanding of backend architecture, middleware 
 
 ## Supporting Materials
 
-- [Original Artifact Components]()
-- [Enhanced Artifact Components]()
+- [Original Artifact Components](original/)
+- [Enhanced Artifact Components](enhanced/)
