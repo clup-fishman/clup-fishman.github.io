@@ -44,5 +44,5 @@ Overall, this strengthened my understanding of backend architecture, middleware 
 
 ## Supporting Materials
 
-- [Original Artifact Components](original/)
-- [Enhanced Artifact Components](enhanced/)
+- [Original Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact1/original/)
+- [Enhanced Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact1/enhanced/)
