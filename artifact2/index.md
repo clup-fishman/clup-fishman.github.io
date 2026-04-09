@@ -1,4 +1,11 @@
+---
+layout: default
+title: Artifact Two
+---
+
 # Artifact Two: Algorithms and Data Structures
+
+{% include back-button.html %}
 
 ## Narrative
 
