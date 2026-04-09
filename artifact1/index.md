@@ -1,4 +1,11 @@
+---
+layout: default
+title: Artifact One
+---
+
 # Artifact One: Software Design and Engineering
+
+{% include back-button.html %}
 
 ## Narrative
 
