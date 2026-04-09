@@ -1,9 +1,5 @@
 # Artifact One: Software Design and Engineering
 
-## Overview
-
-This artifact is based on the final project from the CS-465 Full-Stack Development: the Travlr Getaways application. This project includes a customer-facing interface and an adminstrative application for managing trip data. 
-
 ## Narrative
 
 The artifact selected for this enhancement is the Travlr MEAN stack application from the CS-465 Full-Stack Development course. As the course name suggests, this is a full-stack web application that includes a customer-facing frontend using Node and Express, and an administrative interface that utilizes Angular. Both interact with a MongoDB database. The primary purpose of the application is to manage travel packages, allowing users to view trips and administrators to manage travel packages by creating or updating the trip data through authenticated API endpoints. This artifact was originally the baseline for an application that included functionality for routing, database interaction, and user authentication. However, much of the implementation followed a more direct and less modular approach, particularly with the backend architecture.
