@@ -46,10 +46,13 @@
   padding: 0.4rem 0.8rem;
   border: 1px solid #000000;
   border-radius: 4px;
+  display: inline-block;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.2s ease;
 }
 
 .back-button a:hover {
   text-decoration: underline;
   background-color: #000000;
   color: #ffffff;
+  transform: translateY(-2px);
 }
