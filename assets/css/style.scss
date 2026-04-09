@@ -34,3 +34,22 @@
   top: 0;
   z-index: 1000;
 }
+
+.back-button {
+  margin-bottom: 1rem;
+}
+
+.back-button a {
+  text-decoration: none;
+  font-weight: 600;
+  color: #000000;
+  padding: 0.4rem 0.8rem;
+  border: 1px solid #000000;
+  border-radius: 4px;
+}
+
+.back-button a:hover {
+  text-decoration: underline;
+  background-color: #000000;
+  color: #ffffff;
+}
