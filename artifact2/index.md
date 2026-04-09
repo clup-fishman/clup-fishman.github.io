@@ -20,5 +20,5 @@ Overall, this process strengthened my understanding of how to apply data structu
 
 ## Supporting Materials
 
-[Original Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact2/original/)
-[Enhanced Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact2/enhanced/)
+- [Original Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact2/original/)
+- [Enhanced Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact2/enhanced/)
