@@ -28,5 +28,5 @@ The purpose of this review was not only to inspect the code, but also demonstrat
 ## Featured Work
 - [Artifact 1 - Software Engineering and Design](artifact1/index.md)
 - [Artifact 2 - Algorithms and Data Structures](artifact2/index.md)
-- Artifact 3 - Databases (Coming Soon)
+- [Artifact 3 - Databases](artifact3/index.md)
 
