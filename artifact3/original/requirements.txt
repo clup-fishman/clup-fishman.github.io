@@ -1,0 +1,7 @@
+dash
+dash-leaflet
+plotly
+pymongo
+pandas
+numpy
+matplotlib
