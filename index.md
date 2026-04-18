@@ -1,10 +1,17 @@
 # CS-499 Computer Science Capstone
 
+<div class="section-nav">
+  <a class="section-button" href="#self-assessment">Read Self-Assessment</a>
+  <a class="section-button" href="#code-review">Watch Code Review</a>
+  <a class="section-button" href="#featured-work">View Featured Work</a>
+</div>
+
 Welcome to my CS-499 capstone ePortfolio. This portfolio is designed to showcase my growth throughout the Computer Science program through code review, artifact enhancement, and reflective analysis. Each submission demonstrates my
 ability to evaluate existing work, strengthen software through targeted improvements, and communicate technical decisions in a professional setting.
 
 ---
 
+<div id="self-assessment"></div>
 ## Self-Assessment
 
 Starting this program has been an eye-opening journey. My interest in computer science started at a young age during a time when technology was not quite mainstream. It has always been fueled by curiosity and a desire to understand why things work the way they do. I did not begin my formal education in computer science until 2011 while I was enlisted in the Marine Corps. Unfortunately, I had to take a hiatus from my studies to prioritize the care of my family. As circumstances changed, I made the decision to continue forward and finish what I started, returning in 2023 to complete my bachelor's degree in computer science. Since then, I have remained consistent and committed to that goal.
@@ -27,6 +34,7 @@ As I complete this program, I am focused on transitioning into a software engine
 
 ---
 
+<div id="code-review"></div>
 ## Code Review
 
 This code review serves as the foundation for my capstone enhancements. In this walkthrough, I review the existing functionality of my selected artifacts, identify areas for improvement, and explain the enhancements I planned 
@@ -47,6 +55,9 @@ The purpose of this review was not only to inspect the code, but also demonstrat
 
 [Watch the Code Review on YouTube](https://youtu.be/o9GIhXgXjqo)
 
+---
+
+<div id="featured-work"></div>
 ## Featured Work
 
 ### Software Engineering and Design
