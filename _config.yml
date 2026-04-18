@@ -2,4 +2,6 @@ theme: jekyll-theme-slate
 title: Caleb Luplow
 description: >-
   Aspiring Software Engineer<br>
+  <span style="font-size: 0.9em; font-style: italic; opacity: 0.85;">
   Focused on system design, backend development, and real-world problem solving.
+  </span>
