@@ -49,24 +49,24 @@ The purpose of this review was not only to inspect the code, but also demonstrat
 
 ## Featured Work
 
-### Travlr Full-Stack Application
-  [Artifact 1 - Software Engineering and Design](artifact1/index.md)
+### Software Engineering and Design
+  [Artifact 1 - Travlr Full-Stack Application](artifact1/index.md)
   
   Ehanced a MEAN-based travel application with stronger architecture, request validation, and improved
   separation of concerns.
 
   **Focus:** full-stack development, API design, maintainabiluty, security
 
-### C++ Brick Grid Generation System
-  [Artifact 2 - Algorithms and Data Structures](artifact2/index.md)
+### Algorithms and Data Structures
+  [Artifact 2 - C++ Brick Grid Generation System](artifact2/index.md)
 
   Redesigned grid generation logic to improve structure, control, and long-term maintainability while 
   using data structures more intentionally.
 
   **Focus:** algorithm design, data modeling, problem solving
 
-### MongoDB Dashboard and CRUD Enhancement
-  [Artifact 3 - Databases](artifact3/index.md)
+### Databases
+  [Artifact 3 - MongoDB Dashboard and CRUD Enhancement](artifact3/index.md)
 
   Expanded a Python and MongoDB project with stronger configuration practices, improved data handling,     and more adnaced query capabilities.
 
