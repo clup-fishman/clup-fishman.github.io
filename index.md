@@ -1,5 +1,13 @@
 # CS-499 Computer Science Capstone
 
+{% include page-nav.html links =
+  [
+    {"id":"self-assessment", "label":"Read Self-Assessment"},
+    {"id":"code-review", "label":"Watch Code Review"},
+    {"id":"featured-work", "label":"View Featured Work"}
+  ]
+%}
+
 Welcome to my CS-499 capstone ePortfolio. This portfolio is designed to showcase my growth throughout the Computer Science program through code review, artifact enhancement, and reflective analysis. Each submission demonstrates my
 ability to evaluate existing work, strengthen software through targeted improvements, and communicate technical decisions in a professional setting.
 
