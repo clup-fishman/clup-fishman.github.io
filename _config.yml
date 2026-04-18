@@ -1,7 +1,3 @@
 theme: jekyll-theme-slate
-title: Caleb Luplow - ePortfolio
-description: CS-499 Computer Science Capstone
-
-header_pages:
-  - code-review.md
-  - artifact1/index.md
+title: Caleb Luplow
+description: Aspiring Software Engineer focused on system design, backend development, and real-world problem solving.
