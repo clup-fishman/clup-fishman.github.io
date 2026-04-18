@@ -48,7 +48,30 @@ The purpose of this review was not only to inspect the code, but also demonstrat
 [Watch the Code Review on YouTube](https://youtu.be/o9GIhXgXjqo)
 
 ## Featured Work
-- [Artifact 1 - Software Engineering and Design](artifact1/index.md)
-- [Artifact 2 - Algorithms and Data Structures](artifact2/index.md)
-- [Artifact 3 - Databases](artifact3/index.md)
+
+### Travlr Full-Stack Application
+
+  Ehanced a MEAN-based travel application with stronger architecture, request validation, and improved
+  separation of concerns.
+
+  **Focus:** full-stack development, API design, maintainabiluty, security
+
+  [Artifact 1 - Software Engineering and Design](artifact1/index.md)
+
+  ### C++ Brick Grid Generation System
+
+  Redesigned grid generation logic to improve structure, control, and long-term maintainability while 
+  using data structures more intentionally.
+
+  **Focus:** algorithm design, data modeling, problem solving
+  
+  [Artifact 2 - Algorithms and Data Structures](artifact2/index.md)
+
+  ### MongoDB Dashboard and CRUD Enhancement
+
+  Expanded a Python and MongoDB project with stronger configuration practices, improved data handling,     and more adnaced query capabilities.
+
+  **Focus:** databases, aggregation, indexing, backend data flow
+  
+  [Artifact 3 - Databases](artifact3/index.md)
 
