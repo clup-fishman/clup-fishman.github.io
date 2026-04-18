@@ -1,0 +1,5 @@
+<div class="page-nav">
+  {% for item in include.links %}
+    <a class="section-button" href="#{{ item.id }}">{{ item.label }}</a>
+  {% endfor %}
+</div>
