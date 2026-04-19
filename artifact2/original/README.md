@@ -1,12 +1,7 @@
 # Original Artifact Files
 
----
+This repository contains the original implementation of the Coding Collisions assignment from CS-330.
 
-## File Descriptions
+[Enhanced Version](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact2/enhanced/)
 
-- GameObjects.cpp
-- GameObjects.h
-- MainCode.cpp
-- Utilities.cpp
-- Utilities.h
-- constants.h
+[Back to Artifact 2](https://clup-fishman.github.io/artifact2/)
