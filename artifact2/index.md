@@ -8,7 +8,7 @@ page-nav:
     label: Supporting Materials
 ---
 
-# Artifact Two: Algorithms and Data Structures
+<h1 class="center-text">Artifact Two: Algorithms and Data Structures</h1>
 
 {% include page-nav.html links=page.page-nav %}
 
