@@ -1,20 +1,19 @@
 ---
 title: Home
 page_nav:
+  - id: featured-work
+    label: View Featured Work
   - id: self-assessment
     label: Read Self-Assessment
   - id: code-review
     label: Watch Code Review
-  - id: featured-work
-    label: View Featured Work
 ---
 
 <h1 class="center-text">CS-499 Computer Science Capstone</h1>
 
 {% include page-nav.html links =page.page_nav %}
 
-Welcome to my CS-499 capstone ePortfolio. This portfolio is designed to showcase my growth throughout the Computer Science program through code review, artifact enhancement, and reflective analysis. Each submission demonstrates my
-ability to evaluate existing work, strengthen software through targeted improvements, and communicate technical decisions in a professional setting.
+Welcome to my CS-499 capstone ePortfolio. This site showcases my growth throughout the Computer Science Program through code review, artifact enhancement, and reflective analysis. It also highlights my ability to evaluate existing software, improve system design, and communicate technical decisions in a profressional context.
 
 ---
 
@@ -44,12 +43,9 @@ As I complete this program, I am focused on transitioning into a software engine
 <div id="code-review"></div>
 ## Code Review
 
-This code review serves as the foundation for my capstone enhancements. In this walkthrough, I review the existing functionality of my selected artifacts, identify areas for improvement, and explain the enhancements I planned 
-across software design and engineering, algorithms and data structures, and databases.
+This code review serves as the foundation for my capstone enhancements and overall improvement strategy. In this walkthrough, I review the existing functionality of my selected artifacts, identify areas for improvement, and explain the enhancements I planned across software design and engineering, algorithms and data structures, and databases.
 
-The purpose of this review was not only to inspect the code, but also demonstrate my ability to analyze software critically, communicate technical ideas clearly, and establish a roadmap for meaningful improvement.
-
-### Video
+The purpose of this review was not only to inspect the code, but to also demonstrate my ability to analyze software critically, communicate technical ideas clearly, and establish a roadmap for meaningful improvement.
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
   <iframe
@@ -68,24 +64,22 @@ The purpose of this review was not only to inspect the code, but also demonstrat
 ## Featured Work
 
 ### Software Engineering and Design
-  [Artifact 1 - Travlr Full-Stack Application](artifact1/index.md)
+  [Artifact 1 - Travlr Full-Stack Application](artifact1/)
   
-  Ehanced a MEAN-based travel application with stronger architecture, request validation, and improved
-  separation of concerns.
+  Enhanced a MEAN-based travel application with stronger architecture, request validation, and improved separation of concerns.
 
-  **Focus:** full-stack development, API design, maintainabiluty, security
+  **Focus:** full-stack development, API design, maintainability, security
 
 ### Algorithms and Data Structures
-  [Artifact 2 - C++ Brick Grid Generation System](artifact2/index.md)
+  [Artifact 2 - C++ Brick Grid Generation System](artifact2/)
 
-  Redesigned grid generation logic to improve structure, control, and long-term maintainability while 
-  using data structures more intentionally.
+  Redesigned grid generation logic to improve structure, control, and long-term maintainability while using data structures more intentionally.
 
   **Focus:** algorithm design, data modeling, problem solving
 
 ### Databases
-  [Artifact 3 - MongoDB Dashboard and CRUD Enhancement](artifact3/index.md)
+  [Artifact 3 - MongoDB Dashboard and CRUD Enhancement](artifact3/)
 
-  Expanded a Python and MongoDB project with stronger configuration practices, improved data handling,     and more adnaced query capabilities.
+  Expanded a Python and MongoDB project with stronger configuration practices, improved data handling, and more advanced query capabilities.
 
   **Focus:** databases, aggregation, indexing, backend data flow
