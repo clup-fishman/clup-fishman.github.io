@@ -148,3 +148,16 @@ img {
   border-radius: 6px;
 }
 
+.image-row {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.image-row .project-image {
+  max-width: 450px;
+  width: 100%
+}
