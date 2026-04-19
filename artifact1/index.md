@@ -10,7 +10,7 @@ page-nav:
 
 <h1 class="center-text">Artifact One: Software Design and Engineering</h1>
 
-{% include page-nav.html links=page.page_nav %}
+{% include page-nav.html links=page.page-nav %}
 
 <div id="art1-narrative"></div>
 ## Narrative
