@@ -2,15 +2,15 @@
 layout: default
 title: Artifact One
 page-nav:
-  -id: art1-narrative
-   label: Narrative
-  -id: art1-supporting-materials
-   label: Supporting Materials
+  - id: art1-narrative
+    label: Narrative
+  - id: art1-supporting-materials
+    label: Supporting Materials
 ---
 
 <h1 class="center-text">Artifact One: Software Design and Engineering</h1>
 
-{% include page-nav.html %}
+{% include page-nav.html links=page.page_nav %}
 
 <div id="art1-narrative"></div>
 ## Narrative
