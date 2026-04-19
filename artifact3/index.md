@@ -8,7 +8,7 @@ page-nav:
     label: Supporting Materials
 ---
 
-# Artifact Three: Databases
+<h1 class="center-text">Artifact Three: Databases</h1>
 
 {% include page-nav.html links=page.page-nav %}
 
