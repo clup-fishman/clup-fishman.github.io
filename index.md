@@ -9,7 +9,7 @@ page_nav:
     label: View Featured Work
 ---
 
-# CS-499 Computer Science Capstone
+<h1 style="text-align: center;">CS-499 Computer Science Capstone</h1>
 
 {% include page-nav.html links =page.page_nav %}
 
