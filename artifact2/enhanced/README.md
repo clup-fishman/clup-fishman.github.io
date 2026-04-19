@@ -9,4 +9,5 @@ Enhancements include:
 - Increased control over layout behavior
 
 [Original Files](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact2/original/)
+
 [Back to Artifact 2](https://clup-fishman.github.io/artifact2/)
