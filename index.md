@@ -15,7 +15,7 @@ page_nav:
 
 <img 
   src="assets/images/headshot_pic.jpg" alt="Portrait Shot of Caleb"
-  style="max-width: 400px; width: 100%; display: block; margin: 1rem auto;">
+  style="max-width: 300px; width: 100%; display: block; margin: 1rem auto;">
 
 Welcome to my CS-499 capstone ePortfolio. This site showcases my growth throughout the Computer Science Program through code review, artifact enhancement, and reflective analysis. It also highlights my ability to evaluate existing software, improve system design, and communicate technical decisions in a profressional context.
 
