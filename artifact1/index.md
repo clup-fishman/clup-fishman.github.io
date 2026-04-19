@@ -19,8 +19,7 @@ page-nav:
 
 <img
   src=" '/assets/images/art1_screen2.png' | relative_url }}"
-  alt="Travlr Destination Page"
-  class="project-image">
+  alt="Travlr Destination Page">
 
 <div id="art1-narrative"></div>
 ## Narrative
