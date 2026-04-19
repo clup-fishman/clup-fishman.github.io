@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Artifact Two
-page_nav:
+page-nav:
   - id: art2-narrative
     label: Narrative
   - id: art2-supporting-materials
@@ -10,7 +10,7 @@ page_nav:
 
 # Artifact Two: Algorithms and Data Structures
 
-{% include page-nav.html links=page.page_nav %}
+{% include page-nav.html links=page.page-nav %}
 
 <div id="art2-narrative"></div>
 ## Narrative
