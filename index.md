@@ -13,6 +13,8 @@ page_nav:
 
 {% include page-nav.html links =page.page_nav %}
 
+<img src="assets/images/headshot_pic.jpeg" alt="Portrait Shot of Caleb" class="project-image">
+
 Welcome to my CS-499 capstone ePortfolio. This site showcases my growth throughout the Computer Science Program through code review, artifact enhancement, and reflective analysis. It also highlights my ability to evaluate existing software, improve system design, and communicate technical decisions in a profressional context.
 
 ---
