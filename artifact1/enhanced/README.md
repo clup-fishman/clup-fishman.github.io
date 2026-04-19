@@ -1,6 +1,10 @@
 # Enhanced Artifact Files
 
-This repository contains the planned enhancements of the Travlr application.
+This repository contains the planned enhancements of the Travlr application with improvements in:
+
+- Architecture
+- Validation
+- Maintainability
 
 [Original Version](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact1/original/)
 
