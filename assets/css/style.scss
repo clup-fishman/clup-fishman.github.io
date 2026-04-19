@@ -56,3 +56,37 @@
   color: #ffffff;
   transform: translateY(-2px);
 }
+
+.section-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin: 24px 0 32px 0;
+}
+
+.section-button {
+  display: inline-block;
+  padding: 10px 18px;
+  border: 1px solid #c8c8c8;
+  border-radius: 10px;
+  background: #ffffff;
+  color: #222;
+  text-decoration: none;
+  font-weight: 600;
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.section-button:hover,
+.section-button:focus {
+  text-decoration: none;
+  border-color: #999;
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+}
+
+.section-button:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+}
