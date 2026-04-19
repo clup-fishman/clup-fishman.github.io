@@ -161,7 +161,7 @@ img {
   margin: 0;
 }
 
-@media screen and (max-width: 1025px) {
+@media screen and (min-width: 1025px) {
   .image-row {
     grid-template-columns: repeat(2, 1fr);
   }
