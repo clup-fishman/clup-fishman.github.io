@@ -149,24 +149,20 @@ img {
 }
 
 .image-row {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
   gap: 20px;
-  flex-wrap: wrap;
   margin: 1.5rem 0;
 }
 
 .image-row .project-image {
-  flex: 0 1 420px;
-  max-width: 420px;
   width: 100%;
+  max-width: none;
   margin: 0;
 }
 
 @media (max-width: 900px) {
-  .image-row .project-image {
-    flex-basis: 100%;
-    max-width: 500px;
+  .image-row {
+    grid-template-columns: 1 fr;
   }
 }
