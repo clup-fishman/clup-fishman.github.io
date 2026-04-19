@@ -1,12 +1,18 @@
 ---
 layout: default
 title: Artifact Three
+page-nav:
+  - id: art3-narrative
+    label: Narrative
+  - id: art3-supporting-materials
+    label: Supporting Materials
 ---
 
 # Artifact Three: Databases
 
-{% include back-button.html %}
+{% include page-nav.html links=page.page-nav %}
 
+<div id="art3-narrative"></div>
 ## Narrative
 
 The artifact I selected for the databases enhancement is a Python-based dashboard application utilizing MongoDB to manage animal shelter data. This project was originally created during the CS-340 Client/Server Development class. This focuses on implementing a CRUD module to manage database operations and allow users to visualize the data with a Dash interface. The application allows users to view and filter animal records, interact with a data table, and visualize results through charts and a map. The dashboard dynamically updates based on user input, providing a more interactive way to explore the dataset.
@@ -21,8 +27,11 @@ The biggest thing I learned from this process was how to take a working piece of
 
 Overall, this process helped me better understand how backend improvements like aggregation and indexing can directly impact the user experience when they are integrated properly. It also gave me more confidence in my ability to analyze existing code, identify weaknesses, and make targeted improvements that align with real-world development practices.
 
+{% include back-button.html %}
+
 ---
 
+<div id="art3-supporting-materials"></div>
 ## Supporting Materials
 
 - [Original Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact3/original/)
