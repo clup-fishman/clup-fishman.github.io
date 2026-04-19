@@ -73,6 +73,8 @@ The purpose of this review was not only to inspect the code, but to also demonst
   **Focus:** full-stack development, API design, maintainability, security
 
 ### Algorithms and Data Structures
+  <img src="assets/images/art2_thumb.png" alt="Coding Collisions Screenshot" class="project-image">
+
   [Artifact 2 - C++ Brick Grid Generation System](artifact2/)
 
   Redesigned grid generation logic to improve structure, control, and long-term maintainability while using data structures more intentionally.
@@ -80,6 +82,8 @@ The purpose of this review was not only to inspect the code, but to also demonst
   **Focus:** algorithm design, data modeling, problem solving
 
 ### Databases
+  <img src="assets/images/art3_thumb.png" alt="Animal Outcomes Dashboard Screenshot" class="project-image">
+
   [Artifact 3 - MongoDB Dashboard and CRUD Enhancement](artifact3/)
 
   Expanded a Python and MongoDB project with stronger configuration practices, improved data handling, and more advanced query capabilities.
