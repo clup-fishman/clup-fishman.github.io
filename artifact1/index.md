@@ -14,12 +14,12 @@ page-nav:
 
 <img
   src="{{ '/assets/images/art1_screen.png' | relative_url }}"
-  alt="Travlr Travel Page"
+  alt="Travlr Admin Portal"
   class="project-image">
 
 <img
   src=" '/assets/images/art1_screen2.png' | relative_url }}"
-  alt="Travlr Admin Portal"
+  alt="Travlr Destination Page"
   class="project-image">
 
 <div id="art1-narrative"></div>
