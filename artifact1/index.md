@@ -13,9 +13,8 @@ page-nav:
 {% include page-nav.html links=page.page-nav %}
 
 <img
-  src="{{ '/assets/images/art1_screen.png' | relative_url }}"
-  alt="Travlr Admin Portal"
-  class="project-image">
+  src="/assets/images/art1_screen.png"
+  alt="Travlr Admin Portal">
 
 <img
   src="/assets/images/art1_screen2.png"
