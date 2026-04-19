@@ -158,6 +158,15 @@ img {
 }
 
 .image-row .project-image {
-  max-width: 48%;
-  width: 100%
+  flex: 0 1 420px;
+  max-width: 420px;
+  width: 100%;
+  margin: 0;
+}
+
+@media (max-width: 900px) {
+  .image-row .project-image {
+    flex-basis: 100%;
+    max-width: 500px;
+  }
 }
