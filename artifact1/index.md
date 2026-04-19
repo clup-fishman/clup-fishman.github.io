@@ -14,11 +14,13 @@ page-nav:
 
 <img
   src="/assets/images/art1_screen.png"
-  alt="Travlr Admin Portal">
+  alt="Travlr Admin Portal"
+  class="project-image">
 
 <img
   src="/assets/images/art1_screen2.png"
-  alt="Travlr Destination Page">
+  alt="Travlr Destination Page"
+  class="project-image">
 
 <div id="art1-narrative"></div>
 ## Narrative
