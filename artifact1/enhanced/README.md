@@ -1,16 +1,7 @@
 # Enhanced Artifact Files
 
-These files represent the enhanced version of the Travlr application. Improvements include refactored authentication middleware, added validation, and improved code organization to support maintainability and security.
+This repository contains the planned enhancements of the Travlr application.
 
-## File Descriptions
+[Original Version](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact1/original/)
 
-- trips.js
-- environment.prod.ts
-- environment.ts
-- authenticateJWT.js
-- errorHandler.js
-- validateTrip.js
-- index.js
-- tripService.js
-- app.js
-- trip-data.service.ts
+[Back to Artifact 1](https://clup-fishman.github.io/artifact1/)
