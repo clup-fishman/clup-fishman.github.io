@@ -64,6 +64,8 @@ The purpose of this review was not only to inspect the code, but to also demonst
 ## Featured Work
 
 ### Software Engineering and Design
+  <img src="assets/images/travlr_thumb.png" alt="Travlr Screenshot" class="project-image">
+
   [Artifact 1 - Travlr Full-Stack Application](artifact1/)
   
   Enhanced a MEAN-based travel application with stronger architecture, request validation, and improved separation of concerns.
