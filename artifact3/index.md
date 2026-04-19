@@ -12,6 +12,16 @@ page-nav:
 
 {% include page-nav.html links=page.page-nav %}
 
+<img
+  src="/assets/images/art3_screen.png"
+  alt="Dashboard Aggregation"
+  class="project-image">
+
+  <img
+  src="/assets/images/art3_screen2.png"
+  alt="Dashboard Map Component"
+  class="project-image">
+
 <div id="art3-narrative"></div>
 ## Narrative
 
