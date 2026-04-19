@@ -12,6 +12,16 @@ page-nav:
 
 {% include page-nav.html links=page.page-nav %}
 
+<img
+  src="/assets/images/art2_screen.png"
+  alt="Collisions on Active Board"
+  class="project-image">
+
+<img
+  src="/assets/images/art2_screen2.png"
+  alt="Freshly Generated Game Board"
+  class="project-image">
+
 <div id="art2-narrative"></div>
 ## Narrative
 
