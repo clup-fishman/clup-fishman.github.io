@@ -1,12 +1,18 @@
 ---
 layout: default
 title: Artifact One
+page-nav:
+  -id: art1-narrative
+   label: Narrative
+  -id: art1-supporting-materials
+   label: Supporting Materials
 ---
 
-# Artifact One: Software Design and Engineering
+<h1 class="center-text">Artifact One: Software Design and Engineering</h1>
 
-{% include back-button.html %}
+{% include page-nav.html %}
 
+<div id="art1-narrative"></div>
 ## Narrative
 
 The artifact selected for this enhancement is the Travlr MEAN stack application from the CS-465 Full-Stack Development course. As the course name suggests, this is a full-stack web application that includes a customer-facing frontend using Node and Express, and an administrative interface that utilizes Angular. Both interact with a MongoDB database. The primary purpose of the application is to manage travel packages, allowing users to view trips and administrators to manage travel packages by creating or updating the trip data through authenticated API endpoints. This artifact was originally the baseline for an application that included functionality for routing, database interaction, and user authentication. However, much of the implementation followed a more direct and less modular approach, particularly with the backend architecture.
@@ -43,8 +49,11 @@ Another key takeaway was the importance of designing with future scalability in 
 
 Overall, this strengthened my understanding of backend architecture, middleware design, and the complete structure of a full-stack application. This also highlighted the importance of writing clean, maintainable code that follows established best practices.
 
+{% include back-button.html %}
+
 ---
 
+<div id="art1-supporting-materials"></div>
 ## Supporting Materials
 
 - [Original Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact1/original/)
