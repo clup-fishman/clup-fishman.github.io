@@ -1,10 +1,6 @@
 # Original Artifact Files
 
-These files represent the original implementation of the Travlr application prior to enhancement. They are included to demonstrate the baseline structure and functionality before improvements were made.
+This repository contains the original implementation of the Travlr application developed during CS-465.
 
-## File Descriptions
-
-- trips.js
-- index.js
-- app.js
-- trip-data.service.ts
+[Enhanced Version](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact1/enhanced/)
+[Back to Artifact 1](https://clup-fishman.github.io/artifact1/)
