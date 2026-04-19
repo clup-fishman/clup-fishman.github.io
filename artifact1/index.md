@@ -12,6 +12,16 @@ page-nav:
 
 {% include page-nav.html links=page.page-nav %}
 
+<img
+  src="/assets/images/art1-screen.png"
+  alt="Travlr Travel Page"
+  class="project-image">
+
+<img
+  src="/assets/images/art1-screen2.png"
+  alt="Travlr Admin Portal"
+  class="project-image">
+
 <div id="art1-narrative"></div>
 ## Narrative
 
