@@ -1,12 +1,18 @@
 ---
 layout: default
 title: Artifact Two
+page_nav:
+  - id: art2-narrative
+    label: Narrative
+  - id: art2-supporting-materials
+    label: Supporting Materials
 ---
 
 # Artifact Two: Algorithms and Data Structures
 
-{% include back-button.html %}
+{% include page-nav.html links=page.page_nav %}
 
+<div id="art2-narrative"></div>
 ## Narrative
 
 The artifact I selected was the Coding Collisions assignment originally developed in the CS-330 Computer Graphics and Visualization class. The original assignment started with a basic example that spawned balls in one of eight fixed directions and allowed them to interact with reflective and destructible bricks. The original goal of the assignment was to focus on rendering and interaction rather than algorithm design, but it also allowed creative freedom in implementation, which led me to model it after the classic game Brick Breaker. My implementation was a basic recreation of the core functionality of that game. This simulates the game environment where balls interact with a grid of bricks (and each other) and a player-controlled paddle. Each brick has properties such as position, color, hit points, and type (reflective or destructible). For the enhancement, I focused specifically on improving the brick grid generation logic to better demonstrate my understanding of algorithms and data structures.
@@ -23,8 +29,11 @@ A challenge I faced was finding the right balance between randomness and control
 
 Overall, this process strengthened my understanding of how to apply data structures and algorithm design to improve an existing system. It also reinforced the importance of writing code that is not only functional, but also maintainable and easy to understand.
 
+{% include back-button.html %}
+
 ---
 
+<div id="art2-supporting-materials"></div>
 ## Supporting Materials
 
 - [Original Artifact Components](https://github.com/clup-fishman/clup-fishman.github.io/tree/main/artifact2/original/)
